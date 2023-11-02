@@ -1,7 +1,6 @@
-<h1 align="center"> FinCalc </h1>
+<h1 align="center"> TASKSLY </h1>
 
-<p align="center">
-Calculadora de Juros Compostos<br/>
+<p align="center">Lista De Tarefas<br/>
 </p>
 
 <p align="center">
@@ -19,7 +18,7 @@ Calculadora de Juros Compostos<br/>
 <br>
 
 <p align="center">
-  <img alt="projeto FinCalc" src=".github/FinCalc.png" width="100%">
+  <img alt="projeto FinCalc" src=".github/readme.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,19 +31,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto é uma Calculadora de Juros Compostos construída com HTML, CSS e JavaScript. Ela permite que os usuários calculem o montante final, o valor total investido e o total de juros ao investir uma quantia inicial, adicionando investimentos mensais, e aplicando uma taxa de juros, que pode ser configurada como anual ou mensal.
+Tasksly é uma aplicação simples de lista de tarefas desenvolvida em HTML, CSS e JavaScript. Permite que os usuários adicionem, removam e marquem tarefas como concluídas..
 
-- [Acesse o projeto finalizado, online](https://github.com/GabrielSantos777/FinCalc)
+- [Acesse o projeto finalizado, online](https://github.com/GabrielSantos777/tasksly)
 
 
 ## :memo: Recursos
 
-- Entrada de valores iniciais, taxas de juros, investimento mensal e período de investimento.
-- Opção para escolher entre taxas de juros anuais ou mensais.
-- Opção para escolher entre período de investimento em anos ou meses.
-- Cálculo preciso de juros compostos.
-- Exibição de resultados formatados em moeda BRL (Real Brasileiro).
-- Limpeza fácil dos campos para cálculos subsequentes.
+- Adicionar Tarefa: Os usuários podem adicionar novas tarefas digitando o texto na caixa de entrada e pressionando Enter ou clicando no botão de adicionar (+).
+- Remover Tarefa: As tarefas podem ser removidas clicando no botão "X" ao lado delas.
+- Marcar como Concluída: As tarefas podem ser marcadas como concluídas clicando na caixa de seleção ao lado delas. Tarefas concluídas são movidas para a seção "CONCLUÍDAS".
+- Data Atual: A aplicação exibe a data atual no formato DD/MM/AAAA na parte superior.
 
 
 ## Contribuição
